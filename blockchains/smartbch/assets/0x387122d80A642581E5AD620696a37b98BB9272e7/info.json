@@ -1,0 +1,15 @@
+{
+    "name": "Joost.energy",
+    "address": "0x387122d80A642581E5AD620696a37b98BB9272e7",
+    "symbol": "JOOST",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x387122d80A642581E5AD620696a37b98BB9272e7/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x387122d80A642581E5AD620696a37b98BB9272e7",
+    "links": [],
+    "type": "SMARTBCH"
+}

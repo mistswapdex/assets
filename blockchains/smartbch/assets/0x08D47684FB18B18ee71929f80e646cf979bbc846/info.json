@@ -1,0 +1,15 @@
+{
+    "name": "TROLLS Token",
+    "address": "0x08D47684FB18B18ee71929f80e646cf979bbc846",
+    "symbol": "TROLLS",
+    "decimals": 0,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x08D47684FB18B18ee71929f80e646cf979bbc846/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x08D47684FB18B18ee71929f80e646cf979bbc846",
+    "links": [],
+    "type": "SMARTBCH"
+}

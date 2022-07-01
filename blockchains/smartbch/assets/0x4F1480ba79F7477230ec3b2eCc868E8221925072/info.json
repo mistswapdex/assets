@@ -1,0 +1,15 @@
+{
+    "name": "Konra SEP20",
+    "address": "0x4F1480ba79F7477230ec3b2eCc868E8221925072",
+    "symbol": "KONRA",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x4F1480ba79F7477230ec3b2eCc868E8221925072/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x4F1480ba79F7477230ec3b2eCc868E8221925072",
+    "links": [],
+    "type": "SMARTBCH"
+}

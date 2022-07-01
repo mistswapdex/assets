@@ -1,0 +1,15 @@
+{
+    "name": "CandyMan",
+    "address": "0x0D8b355f9CEDeB612f2df4B39CdD87059A244567",
+    "symbol": "CandyMan",
+    "decimals": 2,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x0D8b355f9CEDeB612f2df4B39CdD87059A244567/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x0D8b355f9CEDeB612f2df4B39CdD87059A244567",
+    "links": [],
+    "type": "SMARTBCH"
+}

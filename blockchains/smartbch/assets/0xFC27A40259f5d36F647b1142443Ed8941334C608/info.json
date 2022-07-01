@@ -1,0 +1,15 @@
+{
+    "name": "C4QNFT",
+    "address": "0xFC27A40259f5d36F647b1142443Ed8941334C608",
+    "symbol": "C4Q",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xFC27A40259f5d36F647b1142443Ed8941334C608/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xFC27A40259f5d36F647b1142443Ed8941334C608",
+    "links": [],
+    "type": "SMARTBCH"
+}

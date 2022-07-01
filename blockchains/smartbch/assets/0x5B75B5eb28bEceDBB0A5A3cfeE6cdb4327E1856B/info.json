@@ -1,0 +1,15 @@
+{
+    "name": "CryptoSorted",
+    "address": "0x5B75B5eb28bEceDBB0A5A3cfeE6cdb4327E1856B",
+    "symbol": "CST",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x5B75B5eb28bEceDBB0A5A3cfeE6cdb4327E1856B/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x5B75B5eb28bEceDBB0A5A3cfeE6cdb4327E1856B",
+    "links": [],
+    "type": "SMARTBCH"
+}

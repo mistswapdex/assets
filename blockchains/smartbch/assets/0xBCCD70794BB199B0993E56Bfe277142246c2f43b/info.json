@@ -1,0 +1,15 @@
+{
+    "name": "BlockNG-Peg DAI Token",
+    "address": "0xBCCD70794BB199B0993E56Bfe277142246c2f43b",
+    "symbol": "bcDAI",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xBCCD70794BB199B0993E56Bfe277142246c2f43b/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xBCCD70794BB199B0993E56Bfe277142246c2f43b",
+    "links": [],
+    "type": "SMARTBCH"
+}

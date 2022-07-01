@@ -1,0 +1,15 @@
+{
+    "name": "sVNT Token",
+    "address": "0x8f66C730e383Bb412a9a3cB58178BAb2f432d194",
+    "symbol": "sVNT",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x8f66C730e383Bb412a9a3cB58178BAb2f432d194/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x8f66C730e383Bb412a9a3cB58178BAb2f432d194",
+    "links": [],
+    "type": "SMARTBCH"
+}

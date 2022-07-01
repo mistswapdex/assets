@@ -1,0 +1,15 @@
+{
+    "name": "Akita Inu",
+    "address": "0x654adBEC36Ae3b61255368AF2fbAF6302A18fCB5",
+    "symbol": "Akita",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x654adBEC36Ae3b61255368AF2fbAF6302A18fCB5/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x654adBEC36Ae3b61255368AF2fbAF6302A18fCB5",
+    "links": [],
+    "type": "SMARTBCH"
+}

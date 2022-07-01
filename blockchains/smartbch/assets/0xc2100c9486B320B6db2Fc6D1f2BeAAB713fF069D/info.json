@@ -1,0 +1,15 @@
+{
+    "name": "🌩️",
+    "address": "0xc2100c9486B320B6db2Fc6D1f2BeAAB713fF069D",
+    "symbol": "🌩️",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xc2100c9486B320B6db2Fc6D1f2BeAAB713fF069D/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xc2100c9486B320B6db2Fc6D1f2BeAAB713fF069D",
+    "links": [],
+    "type": "SMARTBCH"
+}

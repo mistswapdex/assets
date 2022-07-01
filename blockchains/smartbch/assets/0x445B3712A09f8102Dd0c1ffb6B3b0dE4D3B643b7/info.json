@@ -1,0 +1,15 @@
+{
+    "name": "The Wireless Token",
+    "address": "0x445B3712A09f8102Dd0c1ffb6B3b0dE4D3B643b7",
+    "symbol": "WRS",
+    "decimals": 6,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x445B3712A09f8102Dd0c1ffb6B3b0dE4D3B643b7/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x445B3712A09f8102Dd0c1ffb6B3b0dE4D3B643b7",
+    "links": [],
+    "type": "SMARTBCH"
+}

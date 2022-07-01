@@ -1,0 +1,15 @@
+{
+    "name": "Pixelitos",
+    "address": "0x2FD33774AAf96b5EF7394a942e56F4a660C9bF4e",
+    "symbol": "PXL",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x2FD33774AAf96b5EF7394a942e56F4a660C9bF4e/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x2FD33774AAf96b5EF7394a942e56F4a660C9bF4e",
+    "links": [],
+    "type": "SMARTBCH"
+}

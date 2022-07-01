@@ -1,0 +1,15 @@
+{
+    "name": "BlockNG-Peg BCH Token",
+    "address": "0xBc9bD8DDe6C5a8e1CBE293356E02f5984693b195",
+    "symbol": "bcBCH",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xBc9bD8DDe6C5a8e1CBE293356E02f5984693b195/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xBc9bD8DDe6C5a8e1CBE293356E02f5984693b195",
+    "links": [],
+    "type": "SMARTBCH"
+}

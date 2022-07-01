@@ -1,0 +1,15 @@
+{
+    "name": "SOUR",
+    "address": "0xf1453E2342c8812FA4291cDCC034FB19acd76693",
+    "symbol": "SOUR",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xf1453E2342c8812FA4291cDCC034FB19acd76693/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xf1453E2342c8812FA4291cDCC034FB19acd76693",
+    "links": [],
+    "type": "SMARTBCH"
+}

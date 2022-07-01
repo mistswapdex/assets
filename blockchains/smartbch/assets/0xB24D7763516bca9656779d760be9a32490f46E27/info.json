@@ -1,0 +1,15 @@
+{
+    "name": "HODL",
+    "address": "0xB24D7763516bca9656779d760be9a32490f46E27",
+    "symbol": "HODL",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xB24D7763516bca9656779d760be9a32490f46E27/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xB24D7763516bca9656779d760be9a32490f46E27",
+    "links": [],
+    "type": "SMARTBCH"
+}

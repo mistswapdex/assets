@@ -1,0 +1,15 @@
+{
+    "name": "WyvernEgg",
+    "address": "0x7cCb2b0012cB821b908D3db353db922a1a71E963",
+    "symbol": "WVE",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x7cCb2b0012cB821b908D3db353db922a1a71E963/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x7cCb2b0012cB821b908D3db353db922a1a71E963",
+    "links": [],
+    "type": "SMARTBCH"
+}

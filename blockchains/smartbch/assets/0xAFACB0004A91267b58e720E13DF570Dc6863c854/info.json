@@ -1,0 +1,15 @@
+{
+    "name": "SmartBCH Token Observer",
+    "address": "0xAFACB0004A91267b58e720E13DF570Dc6863c854",
+    "symbol": "STO",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xAFACB0004A91267b58e720E13DF570Dc6863c854/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xAFACB0004A91267b58e720E13DF570Dc6863c854",
+    "links": [],
+    "type": "SMARTBCH"
+}

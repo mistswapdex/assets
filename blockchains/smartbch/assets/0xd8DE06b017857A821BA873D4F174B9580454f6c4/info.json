@@ -1,0 +1,15 @@
+{
+    "name": "Viegage Token",
+    "address": "0xd8DE06b017857A821BA873D4F174B9580454f6c4",
+    "symbol": "VTO",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xd8DE06b017857A821BA873D4F174B9580454f6c4/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xd8DE06b017857A821BA873D4F174B9580454f6c4",
+    "links": [],
+    "type": "SMARTBCH"
+}

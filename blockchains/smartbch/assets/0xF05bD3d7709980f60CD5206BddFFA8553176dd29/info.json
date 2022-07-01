@@ -1,0 +1,15 @@
+{
+    "name": "SmartIndex",
+    "address": "0xF05bD3d7709980f60CD5206BddFFA8553176dd29",
+    "symbol": "SIDX",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xF05bD3d7709980f60CD5206BddFFA8553176dd29/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xF05bD3d7709980f60CD5206BddFFA8553176dd29",
+    "links": [],
+    "type": "SMARTBCH"
+}

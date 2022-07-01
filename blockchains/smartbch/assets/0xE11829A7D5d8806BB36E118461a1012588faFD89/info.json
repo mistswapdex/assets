@@ -1,0 +1,15 @@
+{
+    "name": "Spice",
+    "address": "0xE11829A7D5d8806BB36E118461a1012588faFD89",
+    "symbol": "SPICE",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xE11829A7D5d8806BB36E118461a1012588faFD89/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xE11829A7D5d8806BB36E118461a1012588faFD89",
+    "links": [],
+    "type": "SMARTBCH"
+}

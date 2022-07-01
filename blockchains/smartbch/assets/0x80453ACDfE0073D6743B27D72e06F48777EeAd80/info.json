@@ -1,0 +1,15 @@
+{
+    "name": "ZOMBIE",
+    "address": "0x80453ACDfE0073D6743B27D72e06F48777EeAd80",
+    "symbol": "ZOMBIE",
+    "decimals": 0,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x80453ACDfE0073D6743B27D72e06F48777EeAd80/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x80453ACDfE0073D6743B27D72e06F48777EeAd80",
+    "links": [],
+    "type": "SMARTBCH"
+}

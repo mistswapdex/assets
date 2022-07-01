@@ -1,0 +1,15 @@
+{
+    "name": "LAD$",
+    "address": "0xB34cBd2821B4e2F2E1223D08A11258076746F886",
+    "symbol": "LAD$",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xB34cBd2821B4e2F2E1223D08A11258076746F886/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xB34cBd2821B4e2F2E1223D08A11258076746F886",
+    "links": [],
+    "type": "SMARTBCH"
+}

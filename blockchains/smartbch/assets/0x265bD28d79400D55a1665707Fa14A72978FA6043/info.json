@@ -1,0 +1,15 @@
+{
+    "name": "CashCats",
+    "address": "0x265bD28d79400D55a1665707Fa14A72978FA6043",
+    "symbol": "$CATS",
+    "decimals": 2,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x265bD28d79400D55a1665707Fa14A72978FA6043/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x265bD28d79400D55a1665707Fa14A72978FA6043",
+    "links": [],
+    "type": "SMARTBCH"
+}

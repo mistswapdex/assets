@@ -1,0 +1,15 @@
+{
+    "name": "CATSLUCK",
+    "address": "0x659F04F36e90143fCaC202D4BC36C699C078fC98",
+    "symbol": "CLK",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x659F04F36e90143fCaC202D4BC36C699C078fC98/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x659F04F36e90143fCaC202D4BC36C699C078fC98",
+    "links": [],
+    "type": "SMARTBCH"
+}
