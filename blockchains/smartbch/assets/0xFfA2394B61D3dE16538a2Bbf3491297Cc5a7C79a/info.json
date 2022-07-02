@@ -1,0 +1,15 @@
+{
+    "name": "UatX Token",
+    "address": "0xFfA2394B61D3dE16538a2Bbf3491297Cc5a7C79a",
+    "symbol": "UAT",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xFfA2394B61D3dE16538a2Bbf3491297Cc5a7C79a/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xFfA2394B61D3dE16538a2Bbf3491297Cc5a7C79a",
+    "links": [],
+    "type": "SMARTBCH"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Wrapped BCH",
+    "address": "0x3743eC0673453E5009310C727Ba4eaF7b3a1cc04",
+    "symbol": "WBCH",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x3743eC0673453E5009310C727Ba4eaF7b3a1cc04/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x3743eC0673453E5009310C727Ba4eaF7b3a1cc04",
+    "links": [],
+    "type": "SMARTBCH"
+}

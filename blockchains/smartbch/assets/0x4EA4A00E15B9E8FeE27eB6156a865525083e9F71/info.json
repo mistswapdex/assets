@@ -1,0 +1,15 @@
+{
+    "name": "Africa Unite",
+    "address": "0x4EA4A00E15B9E8FeE27eB6156a865525083e9F71",
+    "symbol": "Martin₿",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x4EA4A00E15B9E8FeE27eB6156a865525083e9F71/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x4EA4A00E15B9E8FeE27eB6156a865525083e9F71",
+    "links": [],
+    "type": "SMARTBCH"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Joystick",
+    "address": "0x6732E55Ac3ECa734F54C26Bd8DF4eED52Fb79a6E",
+    "symbol": "JOY",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x6732E55Ac3ECa734F54C26Bd8DF4eED52Fb79a6E/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x6732E55Ac3ECa734F54C26Bd8DF4eED52Fb79a6E",
+    "links": [],
+    "type": "SMARTBCH"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "TANGObar",
+    "address": "0x98Ff640323C059d8C4CB846976973FEEB0E068aA",
+    "symbol": "xTANGO",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x98Ff640323C059d8C4CB846976973FEEB0E068aA/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x98Ff640323C059d8C4CB846976973FEEB0E068aA",
+    "links": [],
+    "type": "SMARTBCH"
+}

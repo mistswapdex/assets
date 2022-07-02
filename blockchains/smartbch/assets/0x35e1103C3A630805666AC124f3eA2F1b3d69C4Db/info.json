@@ -1,0 +1,15 @@
+{
+    "name": "KIDLAMBO",
+    "address": "0x35e1103C3A630805666AC124f3eA2F1b3d69C4Db",
+    "symbol": "KIDLAMBO",
+    "decimals": 9,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x35e1103C3A630805666AC124f3eA2F1b3d69C4Db/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x35e1103C3A630805666AC124f3eA2F1b3d69C4Db",
+    "links": [],
+    "type": "SMARTBCH"
+}

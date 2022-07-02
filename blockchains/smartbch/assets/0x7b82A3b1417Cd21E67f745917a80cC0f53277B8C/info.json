@@ -1,0 +1,15 @@
+{
+    "name": "Expected Value Entropy",
+    "address": "0x7b82A3b1417Cd21E67f745917a80cC0f53277B8C",
+    "symbol": "EVE",
+    "decimals": 7,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x7b82A3b1417Cd21E67f745917a80cC0f53277B8C/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x7b82A3b1417Cd21E67f745917a80cC0f53277B8C",
+    "links": [],
+    "type": "SMARTBCH"
+}

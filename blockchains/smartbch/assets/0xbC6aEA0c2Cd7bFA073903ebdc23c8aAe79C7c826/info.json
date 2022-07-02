@@ -1,0 +1,15 @@
+{
+    "name": "BlockNG-Peg BUSD Token",
+    "address": "0xbC6aEA0c2Cd7bFA073903ebdc23c8aAe79C7c826",
+    "symbol": "bcBUSD",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xbC6aEA0c2Cd7bFA073903ebdc23c8aAe79C7c826/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xbC6aEA0c2Cd7bFA073903ebdc23c8aAe79C7c826",
+    "links": [],
+    "type": "SMARTBCH"
+}

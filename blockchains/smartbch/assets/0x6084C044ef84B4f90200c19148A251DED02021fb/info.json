@@ -1,0 +1,15 @@
+{
+    "name": "Malinois",
+    "address": "0x6084C044ef84B4f90200c19148A251DED02021fb",
+    "symbol": "$MAL",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x6084C044ef84B4f90200c19148A251DED02021fb/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x6084C044ef84B4f90200c19148A251DED02021fb",
+    "links": [],
+    "type": "SMARTBCH"
+}

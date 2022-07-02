@@ -1,0 +1,15 @@
+{
+    "name": "KAIJU",
+    "address": "0x4f909dFE5Daaf94fbd1fD4C2E582F7608C87cd94",
+    "symbol": "KAIJU",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x4f909dFE5Daaf94fbd1fD4C2E582F7608C87cd94/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x4f909dFE5Daaf94fbd1fD4C2E582F7608C87cd94",
+    "links": [],
+    "type": "SMARTBCH"
+}

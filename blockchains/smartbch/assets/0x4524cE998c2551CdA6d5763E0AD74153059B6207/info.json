@@ -1,0 +1,15 @@
+{
+    "name": "Ki",
+    "address": "0x4524cE998c2551CdA6d5763E0AD74153059B6207",
+    "symbol": "Ki",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x4524cE998c2551CdA6d5763E0AD74153059B6207/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x4524cE998c2551CdA6d5763E0AD74153059B6207",
+    "links": [],
+    "type": "SMARTBCH"
+}

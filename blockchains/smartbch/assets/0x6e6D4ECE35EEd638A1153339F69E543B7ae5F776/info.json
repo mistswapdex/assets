@@ -1,0 +1,15 @@
+{
+    "name": "SmartDoge",
+    "address": "0x6e6D4ECE35EEd638A1153339F69E543B7ae5F776",
+    "symbol": "SMART",
+    "decimals": 9,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x6e6D4ECE35EEd638A1153339F69E543B7ae5F776/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x6e6D4ECE35EEd638A1153339F69E543B7ae5F776",
+    "links": [],
+    "type": "SMARTBCH"
+}

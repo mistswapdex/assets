@@ -1,0 +1,15 @@
+{
+    "name": "LAW US Dollar",
+    "address": "0xE1E655BE6F50344e6dd708c27BD8D66492d6ecAf",
+    "symbol": "lawUSD",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xE1E655BE6F50344e6dd708c27BD8D66492d6ecAf/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xE1E655BE6F50344e6dd708c27BD8D66492d6ecAf",
+    "links": [],
+    "type": "SMARTBCH"
+}

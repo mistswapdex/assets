@@ -1,0 +1,15 @@
+{
+    "name": "NFT Club Token",
+    "address": "0x8dd87b3f50bE9C6Ac5EC08458803843F0D294B3d",
+    "symbol": "NFTC",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x8dd87b3f50bE9C6Ac5EC08458803843F0D294B3d/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x8dd87b3f50bE9C6Ac5EC08458803843F0D294B3d",
+    "links": [],
+    "type": "SMARTBCH"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Celery",
+    "address": "0x7642Df81b5BEAeEb331cc5A104bd13Ba68c34B91",
+    "symbol": "CLY",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x7642Df81b5BEAeEb331cc5A104bd13Ba68c34B91/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x7642Df81b5BEAeEb331cc5A104bd13Ba68c34B91",
+    "links": [],
+    "type": "SMARTBCH"
+}

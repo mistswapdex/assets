@@ -1,0 +1,15 @@
+{
+    "name": "flexUSD",
+    "address": "0x7b2B3C5308ab5b2a1d9a94d20D35CCDf61e05b72",
+    "symbol": "flexUSD",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x7b2B3C5308ab5b2a1d9a94d20D35CCDf61e05b72/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x7b2B3C5308ab5b2a1d9a94d20D35CCDf61e05b72",
+    "links": [],
+    "type": "SMARTBCH"
+}

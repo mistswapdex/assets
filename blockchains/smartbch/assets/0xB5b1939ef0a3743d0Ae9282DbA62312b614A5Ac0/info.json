@@ -1,0 +1,15 @@
+{
+    "name": "Potato",
+    "address": "0xB5b1939ef0a3743d0Ae9282DbA62312b614A5Ac0",
+    "symbol": "POTA",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xB5b1939ef0a3743d0Ae9282DbA62312b614A5Ac0/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xB5b1939ef0a3743d0Ae9282DbA62312b614A5Ac0",
+    "links": [],
+    "type": "SMARTBCH"
+}

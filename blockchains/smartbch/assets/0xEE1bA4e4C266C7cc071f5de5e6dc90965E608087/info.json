@@ -1,0 +1,15 @@
+{
+    "name": "NomadCoin",
+    "address": "0xEE1bA4e4C266C7cc071f5de5e6dc90965E608087",
+    "symbol": "NOMAD",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xEE1bA4e4C266C7cc071f5de5e6dc90965E608087/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xEE1bA4e4C266C7cc071f5de5e6dc90965E608087",
+    "links": [],
+    "type": "SMARTBCH"
+}

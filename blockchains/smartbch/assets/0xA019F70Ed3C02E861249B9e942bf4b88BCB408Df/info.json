@@ -1,0 +1,15 @@
+{
+    "name": "DogLuck",
+    "address": "0xA019F70Ed3C02E861249B9e942bf4b88BCB408Df",
+    "symbol": "DLK",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xA019F70Ed3C02E861249B9e942bf4b88BCB408Df/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xA019F70Ed3C02E861249B9e942bf4b88BCB408Df",
+    "links": [],
+    "type": "SMARTBCH"
+}

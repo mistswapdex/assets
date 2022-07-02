@@ -1,0 +1,15 @@
+{
+    "name": "Cross-Chain USDC",
+    "address": "0x75A695F13e59ddd19a327C8Af98D5a6E379a8105",
+    "symbol": "ccUSDC",
+    "decimals": 6,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x75A695F13e59ddd19a327C8Af98D5a6E379a8105/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x75A695F13e59ddd19a327C8Af98D5a6E379a8105",
+    "links": [],
+    "type": "SMARTBCH"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "BlockNG-Peg BNB Token",
+    "address": "0xBc7b858B5694D485AD17c89675649cE44De21BEa",
+    "symbol": "bcBNB",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xBc7b858B5694D485AD17c89675649cE44De21BEa/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xBc7b858B5694D485AD17c89675649cE44De21BEa",
+    "links": [],
+    "type": "SMARTBCH"
+}

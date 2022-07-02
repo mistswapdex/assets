@@ -1,0 +1,15 @@
+{
+    "name": "Game",
+    "address": "0xd2597a0bde31Ddec2440E256d8AA35eb63F1A9e3",
+    "symbol": "GAME",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xd2597a0bde31Ddec2440E256d8AA35eb63F1A9e3/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xd2597a0bde31Ddec2440E256d8AA35eb63F1A9e3",
+    "links": [],
+    "type": "SMARTBCH"
+}

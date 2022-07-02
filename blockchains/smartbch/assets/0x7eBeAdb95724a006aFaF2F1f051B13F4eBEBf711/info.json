@@ -1,0 +1,15 @@
+{
+    "name": "CashKitten",
+    "address": "0x7eBeAdb95724a006aFaF2F1f051B13F4eBEBf711",
+    "symbol": "$KITTEN",
+    "decimals": 2,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x7eBeAdb95724a006aFaF2F1f051B13F4eBEBf711/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x7eBeAdb95724a006aFaF2F1f051B13F4eBEBf711",
+    "links": [],
+    "type": "SMARTBCH"
+}

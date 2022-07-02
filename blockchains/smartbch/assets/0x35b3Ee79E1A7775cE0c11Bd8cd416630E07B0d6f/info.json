@@ -1,0 +1,15 @@
+{
+    "name": "Bitcoin Cash Name Service",
+    "address": "0x35b3Ee79E1A7775cE0c11Bd8cd416630E07B0d6f",
+    "symbol": "LNS",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x35b3Ee79E1A7775cE0c11Bd8cd416630E07B0d6f/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x35b3Ee79E1A7775cE0c11Bd8cd416630E07B0d6f",
+    "links": [],
+    "type": "SMARTBCH"
+}

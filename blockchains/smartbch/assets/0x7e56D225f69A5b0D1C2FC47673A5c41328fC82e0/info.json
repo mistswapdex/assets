@@ -1,0 +1,15 @@
+{
+    "name": "METADOR",
+    "address": "0x7e56D225f69A5b0D1C2FC47673A5c41328fC82e0",
+    "symbol": "META",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x7e56D225f69A5b0D1C2FC47673A5c41328fC82e0/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x7e56D225f69A5b0D1C2FC47673A5c41328fC82e0",
+    "links": [],
+    "type": "SMARTBCH"
+}
