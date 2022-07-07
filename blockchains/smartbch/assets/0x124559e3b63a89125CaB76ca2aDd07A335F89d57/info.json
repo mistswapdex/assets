@@ -1,0 +1,15 @@
+{
+    "name": "Fridge",
+    "address": "0x124559e3b63a89125CaB76ca2aDd07A335F89d57",
+    "symbol": "FRDG",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x124559e3b63a89125CaB76ca2aDd07A335F89d57/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x124559e3b63a89125CaB76ca2aDd07A335F89d57",
+    "links": [],
+    "type": "SMARTBCH"
+}

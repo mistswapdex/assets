@@ -1,0 +1,15 @@
+{
+    "name": "Centralized Autocratic Organization",
+    "address": "0x8358758D3952A0146560F3584d3b219ed631E1ea",
+    "symbol": "CAO",
+    "decimals": 9,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x8358758D3952A0146560F3584d3b219ed631E1ea/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x8358758D3952A0146560F3584d3b219ed631E1ea",
+    "links": [],
+    "type": "SMARTBCH"
+}

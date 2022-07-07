@@ -1,0 +1,15 @@
+{
+    "name": "Friend",
+    "address": "0x4592B88618119e55e37FFCb28EDE02beF6F3c5bA",
+    "symbol": "FRN",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x4592B88618119e55e37FFCb28EDE02beF6F3c5bA/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x4592B88618119e55e37FFCb28EDE02beF6F3c5bA",
+    "links": [],
+    "type": "SMARTBCH"
+}

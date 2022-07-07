@@ -1,0 +1,15 @@
+{
+    "name": "RugRugToken",
+    "address": "0x2FBd3dDceCd02A95D712C4185aE0eB8C87c4a327",
+    "symbol": "Rug",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x2FBd3dDceCd02A95D712C4185aE0eB8C87c4a327/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x2FBd3dDceCd02A95D712C4185aE0eB8C87c4a327",
+    "links": [],
+    "type": "SMARTBCH"
+}

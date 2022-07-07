@@ -1,0 +1,15 @@
+{
+    "name": "Narath",
+    "address": "0x0cB20466c0Dd6454ACF50eC26F3042CCC6362fa0",
+    "symbol": "NARATH",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x0cB20466c0Dd6454ACF50eC26F3042CCC6362fa0/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x0cB20466c0Dd6454ACF50eC26F3042CCC6362fa0",
+    "links": [],
+    "type": "SMARTBCH"
+}

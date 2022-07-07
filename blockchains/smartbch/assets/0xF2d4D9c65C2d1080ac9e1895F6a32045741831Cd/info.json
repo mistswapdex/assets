@@ -1,0 +1,15 @@
+{
+    "name": "Honk",
+    "address": "0xF2d4D9c65C2d1080ac9e1895F6a32045741831Cd",
+    "symbol": "HONK",
+    "decimals": 2,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xF2d4D9c65C2d1080ac9e1895F6a32045741831Cd/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xF2d4D9c65C2d1080ac9e1895F6a32045741831Cd",
+    "links": [],
+    "type": "SMARTBCH"
+}

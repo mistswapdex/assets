@@ -1,0 +1,15 @@
+{
+    "name": "BCHDAO",
+    "address": "0xe5643aAF41ed9e5a56C3D5D1a049b43Ac69950b2",
+    "symbol": "BCHDAO",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xe5643aAF41ed9e5a56C3D5D1a049b43Ac69950b2/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xe5643aAF41ed9e5a56C3D5D1a049b43Ac69950b2",
+    "links": [],
+    "type": "SMARTBCH"
+}

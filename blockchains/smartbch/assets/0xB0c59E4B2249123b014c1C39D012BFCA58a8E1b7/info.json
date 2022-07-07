@@ -1,0 +1,15 @@
+{
+    "name": "SPACE",
+    "address": "0xB0c59E4B2249123b014c1C39D012BFCA58a8E1b7",
+    "symbol": "SPACE",
+    "decimals": 8,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xB0c59E4B2249123b014c1C39D012BFCA58a8E1b7/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xB0c59E4B2249123b014c1C39D012BFCA58a8E1b7",
+    "links": [],
+    "type": "SMARTBCH"
+}

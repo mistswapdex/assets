@@ -1,0 +1,15 @@
+{
+    "name": "LAWTOKEN",
+    "address": "0x0b00366fBF7037E9d75E4A569ab27dAB84759302",
+    "symbol": "LAW",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x0b00366fBF7037E9d75E4A569ab27dAB84759302/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x0b00366fBF7037E9d75E4A569ab27dAB84759302",
+    "links": [],
+    "type": "SMARTBCH"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Cheese",
+    "address": "0x09A4CDb1569563fF277aC457cED35fe2551aEC1D",
+    "symbol": "CHEESE",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x09A4CDb1569563fF277aC457cED35fe2551aEC1D/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x09A4CDb1569563fF277aC457cED35fe2551aEC1D",
+    "links": [],
+    "type": "SMARTBCH"
+}

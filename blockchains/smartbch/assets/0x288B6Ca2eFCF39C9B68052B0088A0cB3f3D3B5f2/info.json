@@ -1,0 +1,15 @@
+{
+    "name": "PandaToken",
+    "address": "0x288B6Ca2eFCF39C9B68052B0088A0cB3f3D3B5f2",
+    "symbol": "PDA",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x288B6Ca2eFCF39C9B68052B0088A0cB3f3D3B5f2/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x288B6Ca2eFCF39C9B68052B0088A0cB3f3D3B5f2",
+    "links": [],
+    "type": "SMARTBCH"
+}

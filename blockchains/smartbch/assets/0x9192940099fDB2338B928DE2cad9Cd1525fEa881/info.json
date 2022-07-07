@@ -1,0 +1,15 @@
+{
+    "name": "BCHPad",
+    "address": "0x9192940099fDB2338B928DE2cad9Cd1525fEa881",
+    "symbol": "BPAD",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x9192940099fDB2338B928DE2cad9Cd1525fEa881/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x9192940099fDB2338B928DE2cad9Cd1525fEa881",
+    "links": [],
+    "type": "SMARTBCH"
+}

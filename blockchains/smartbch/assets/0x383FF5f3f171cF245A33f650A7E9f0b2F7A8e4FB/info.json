@@ -1,0 +1,15 @@
+{
+    "name": "Cross-Chain USDT",
+    "address": "0x383FF5f3f171cF245A33f650A7E9f0b2F7A8e4FB",
+    "symbol": "ccUSDT",
+    "decimals": 6,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x383FF5f3f171cF245A33f650A7E9f0b2F7A8e4FB/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x383FF5f3f171cF245A33f650A7E9f0b2F7A8e4FB",
+    "links": [],
+    "type": "SMARTBCH"
+}

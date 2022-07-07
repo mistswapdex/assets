@@ -1,0 +1,15 @@
+{
+    "name": "Scaffold Token",
+    "address": "0x836d1b6F07daD45bD6C870c24a4B32B78fDDDd34",
+    "symbol": "SCF",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x836d1b6F07daD45bD6C870c24a4B32B78fDDDd34/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x836d1b6F07daD45bD6C870c24a4B32B78fDDDd34",
+    "links": [],
+    "type": "SMARTBCH"
+}

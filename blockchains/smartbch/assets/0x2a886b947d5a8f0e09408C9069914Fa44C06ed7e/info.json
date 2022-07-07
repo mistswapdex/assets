@@ -1,0 +1,15 @@
+{
+    "name": "VANDALS",
+    "address": "0x2a886b947d5a8f0e09408C9069914Fa44C06ed7e",
+    "symbol": "VANDALS",
+    "decimals": 8,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x2a886b947d5a8f0e09408C9069914Fa44C06ed7e/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x2a886b947d5a8f0e09408C9069914Fa44C06ed7e",
+    "links": [],
+    "type": "SMARTBCH"
+}

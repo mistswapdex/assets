@@ -1,0 +1,15 @@
+{
+    "name": "HAM Token",
+    "address": "0x252fd94f3Fb53D3D62F4FEc708501ACd59A57e52",
+    "symbol": "HAM",
+    "decimals": 8,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x252fd94f3Fb53D3D62F4FEc708501ACd59A57e52/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x252fd94f3Fb53D3D62F4FEc708501ACd59A57e52",
+    "links": [],
+    "type": "SMARTBCH"
+}

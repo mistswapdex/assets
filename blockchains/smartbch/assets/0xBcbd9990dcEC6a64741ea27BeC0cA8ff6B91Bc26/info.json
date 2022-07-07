@@ -1,0 +1,15 @@
+{
+    "name": "BlockNG-Peg USDC Token",
+    "address": "0xBcbd9990dcEC6a64741ea27BeC0cA8ff6B91Bc26",
+    "symbol": "bcUSDC",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xBcbd9990dcEC6a64741ea27BeC0cA8ff6B91Bc26/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xBcbd9990dcEC6a64741ea27BeC0cA8ff6B91Bc26",
+    "links": [],
+    "type": "SMARTBCH"
+}

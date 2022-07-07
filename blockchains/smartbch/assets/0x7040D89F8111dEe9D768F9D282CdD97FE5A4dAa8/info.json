@@ -1,0 +1,15 @@
+{
+    "name": "Falcon Token",
+    "address": "0x7040D89F8111dEe9D768F9D282CdD97FE5A4dAa8",
+    "symbol": "FLCT",
+    "decimals": 0,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x7040D89F8111dEe9D768F9D282CdD97FE5A4dAa8/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x7040D89F8111dEe9D768F9D282CdD97FE5A4dAa8",
+    "links": [],
+    "type": "SMARTBCH"
+}

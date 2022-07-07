@@ -1,0 +1,15 @@
+{
+    "name": "ORB - Enter The Sphere",
+    "address": "0xFf3ed63bf8bC9303eA0A7E1215bA2f82D569799e",
+    "symbol": "ORB",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xFf3ed63bf8bC9303eA0A7E1215bA2f82D569799e/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xFf3ed63bf8bC9303eA0A7E1215bA2f82D569799e",
+    "links": [],
+    "type": "SMARTBCH"
+}

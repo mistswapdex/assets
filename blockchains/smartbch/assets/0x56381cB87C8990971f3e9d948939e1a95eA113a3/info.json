@@ -1,0 +1,15 @@
+{
+    "name": "Goblin",
+    "address": "0x56381cB87C8990971f3e9d948939e1a95eA113a3",
+    "symbol": "GOB",
+    "decimals": 9,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x56381cB87C8990971f3e9d948939e1a95eA113a3/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x56381cB87C8990971f3e9d948939e1a95eA113a3",
+    "links": [],
+    "type": "SMARTBCH"
+}

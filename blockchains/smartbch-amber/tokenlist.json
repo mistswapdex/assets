@@ -1,0 +1,27 @@
+{
+    "name": "Trust Wallet: Bitcoin Cash",
+    "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+    "timestamp": "2021-02-01T15:48:42.549Z",
+    "tokens": [
+        {
+            "name": "Bitcoin Cash Name Service",
+            "address": "0x0d5d28C1beC2f1Ca184765eEA30416b17D262C25",
+            "symbol": "LNS",
+            "decimals": 18,
+            "chainId": 10001,
+            "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch-amber/assets/0x0d5d28C1beC2f1Ca184765eEA30416b17D262C25/logo.png",
+            "website": "",
+            "description": "",
+            "explorer": "",
+            "status": "active",
+            "id": "0x0d5d28C1beC2f1Ca184765eEA30416b17D262C25",
+            "links": [],
+            "type": "SMARTBCH-AMBER"
+        }
+    ],
+    "version": {
+        "major": 1,
+        "minor": 5,
+        "patch": 0
+    }
+}

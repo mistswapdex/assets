@@ -1,0 +1,15 @@
+{
+    "name": "Goblins BCH",
+    "address": "0x009dC89aC501a62C4FaaF7196aeE90CF79B6fC7c",
+    "symbol": "gBCH",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0x009dC89aC501a62C4FaaF7196aeE90CF79B6fC7c/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x009dC89aC501a62C4FaaF7196aeE90CF79B6fC7c",
+    "links": [],
+    "type": "SMARTBCH"
+}
