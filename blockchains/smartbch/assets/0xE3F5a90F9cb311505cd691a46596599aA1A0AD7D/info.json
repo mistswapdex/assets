@@ -1,0 +1,15 @@
+{
+    "name": "Ethereum",
+    "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+    "symbol": "ETH",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+    "links": [],
+    "type": "SMARTBCH"
+}
