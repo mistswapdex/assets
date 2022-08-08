@@ -1,0 +1,15 @@
+{
+    "name": "Dai Stablecoin",
+    "address": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xfA9343C3897324496A05fC75abeD6bAC29f8A40f/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xfA9343C3897324496A05fC75abeD6bAC29f8A40f",
+    "links": [],
+    "type": "SMARTBCH"
+}
