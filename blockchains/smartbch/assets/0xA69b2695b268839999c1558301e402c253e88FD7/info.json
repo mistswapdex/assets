@@ -1,0 +1,15 @@
+{
+    "name": "MrBurger",
+    "address": "0xA69b2695b268839999c1558301e402c253e88FD7",
+    "symbol": "MrBurger",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/mistswapdex/assets/master/blockchains/smartbch/assets/0xA69b2695b268839999c1558301e402c253e88FD7/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0xA69b2695b268839999c1558301e402c253e88FD7",
+    "links": [],
+    "type": "SMARTBCH"
+}
